@@ -20,11 +20,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: Simple
+  headline: "<strong>Desigmed to be simple.</strong>"
+  content: "<strong>Simplicity </strong>is not only pleasing to the eye but also <strong>very
+    helpful </strong>for you in using your smartphone to support your daily activities"
   media:
     image: "/uploads/res/Screenshot_20201230-025459.png"
     alt_text: ''
