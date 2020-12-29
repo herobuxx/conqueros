@@ -24,8 +24,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/res/Screenshot_20201230-025607.png"
-    alt_text: ConquerOS Screenshot
+    image: ''
+    alt_text: ''
   background_image: "/uploads/res/20201230_024931.png"
 - template: content-feature
   block: feature-1
