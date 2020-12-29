@@ -29,15 +29,13 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: "<strong>Customizable</strong>"
+  content: You can <strong>customize </strong>your smartphone as cool as yourself!
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/res/20201230_042155.png"
+    alt_text: Customizeable
 - template: 1-column-text
   block: one-column-1
   slug: responsive
