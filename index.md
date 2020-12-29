@@ -15,7 +15,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/res/20201230_024931.png"
+  background_image: "/uploads/res/20201230_040850.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -62,17 +62,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/res/20201230_040850.png"
-  headline: "<strong>It's ConquerOS</strong>"
-  image:
-    image: ''
-    alt_text: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 
 ---
