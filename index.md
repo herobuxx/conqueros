@@ -25,7 +25,7 @@ page_sections:
   content: "<strong>Simplicity </strong>is not only pleasing to the eye but also <strong>very
     helpful </strong>for you in using your smartphone to support your daily activities"
   media:
-    image: "/uploads/res/Screenshot_20201230-025459.png"
+    image: "/uploads/res/screenshot_20201230-025459-1.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
@@ -34,7 +34,7 @@ page_sections:
   headline: "<strong>Customizable</strong>"
   content: You can <strong>customize </strong>your smartphone as cool as yourself!
   media:
-    image: "/uploads/res/20201230_042155.png"
+    image: "/uploads/res/20201230_042155-1.png"
     alt_text: Customizeable
 - template: simple-footer
   block: footer-1
