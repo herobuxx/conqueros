@@ -6,8 +6,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>Designed to be<br>simple, stable, smooth,<br>and customizable.</strong>"
-  content: That's the ConquerOS ROM!
+  headline: "<strong>It's<br>ConquerOS</strong>"
+  content: Simple CAF Based Custom ROM with <strong>Redsigned </strong>and <strong>Redefined
+    UI</strong>
   cta:
     enabled: true
     url: "/download"
@@ -25,8 +26,8 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/res/Screenshot_20201230-025459.png"
+    alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
