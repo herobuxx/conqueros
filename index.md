@@ -18,8 +18,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: "<strong>Designed to be<br>simple, stable, smooth,<br>and customizable.</strong>"
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: That's the ConquerOS ROM!
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
