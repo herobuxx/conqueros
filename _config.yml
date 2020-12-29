@@ -3,7 +3,7 @@ title: ConquerOS - Homepage
 author: HeroBuxx
 email: me@herobuxx.xyz
 description: Simple yet Powerful CAF Based ROM.
-baseurl: "/"
+baseurl: "/conqueros"
 url: ''
 defaults:
 - scope:
