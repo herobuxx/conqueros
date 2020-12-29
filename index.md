@@ -29,7 +29,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   slug: customize
   headline: "<strong>Customizable</strong>"
   content: You can <strong>customize </strong>your smartphone as cool as yourself!
