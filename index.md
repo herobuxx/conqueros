@@ -6,7 +6,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: "<strong>It's<br>ConquerOS</strong>"
+  headline: "<strong>This is<br>ConquerOS</strong>"
   content: Simple CAF Based Custom ROM with <strong>Redsigned </strong>and <strong>Redefined
     UI</strong>
   cta:
