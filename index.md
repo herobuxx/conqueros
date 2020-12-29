@@ -21,8 +21,8 @@ page_sections:
   content: That's the ConquerOS ROM!
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "/download"
+    button_text: Download
   image:
     image: ''
     alt_text: ''
