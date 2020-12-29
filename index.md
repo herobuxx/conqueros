@@ -64,7 +64,7 @@ page_sections:
   content: Made with ❤︎ in Canada
 - template: hero-banner-w-image
   block: hero-2
-  background_image: "/uploads/res/20201230_024931.png"
+  background_image: "/uploads/res/20201230_040850.png"
   headline: "<strong>It's ConquerOS</strong>"
   image:
     image: ''
