@@ -9,7 +9,7 @@ page_sections:
   headline: Get <strong>ConquerOS </strong>for <strong>Redmi Note 6 Pro</strong>
   slug: tulip
   content: "<strong>Release Status<br></strong>Official Beta<br><strong><br>Suppported
-    Version<br></strong>4.X Raven CAF<br><strong><br>Maintainer<br></strong>Alif Fahur"
+    Version<br></strong>4.X Raven CAF<br><strong><br>Maintainer<br></strong>Alif Fahur<br><br><strong><a href="https://www.pling.com/p/1410833/"></strong>"
   media:
     image: ''
     alt_text: ''
