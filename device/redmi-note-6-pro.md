@@ -10,7 +10,7 @@ page_sections:
   slug: tulip
   content: "<strong>Release Status<br></strong>Official Beta<br><strong><br>Suppported
     Version<br></strong>4.X Raven CAF<br><strong><br>Maintainer<br></strong>Alif Fahur<br><br><strong><a href="https://www.pling.com/p/1410833/"></strong>"
-    media:
+  media:
     image: "/uploads/res/tulip.png"
     alt_text: ''
 
