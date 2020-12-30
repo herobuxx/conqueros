@@ -32,4 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- device/redmi-note-6-pro.md
 - index.md
