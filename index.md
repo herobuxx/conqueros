@@ -21,20 +21,30 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: Simple
-  headline: "<strong>Desigmed to be simple.</strong>"
+  headline: "<strong>Simple.</strong>"
   content: "<strong>Simplicity </strong>is not only pleasing to the eye but also <strong>very
     helpful </strong>for you in using your smartphone to support your daily activities"
   media:
-    image: "/uploads/res/screenshot_20201230-025459-1.png"
+    image: "/uploads/res/20201230_100052.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: "<strong>Stable</strong>"
+  slug: Stable
+  content: "<strong>Stability </strong>is necessary as your Stock ROM replcement that
+    used for daily driver."
+  media:
+    image: "/uploads/res/20201230_100128.png"
+    alt_text: Homescreen
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
   slug: customize
   headline: "<strong>Customizable</strong>"
   content: You can <strong>customize </strong>your smartphone as cool as yourself!
   media:
-    image: "/uploads/res/20201230_042155-1.png"
+    image: "/uploads/res/20201230_100218.png"
     alt_text: Customizeable
 - template: simple-footer
   block: footer-1
