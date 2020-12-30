@@ -5,7 +5,7 @@ date: 2020-12-30 17:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/res/logo.png"
+  logo: "/uploads/res/logo-1.png"
   navigation:
   - link: https://www.pling.com/p/1410833/
     link_text: Download
