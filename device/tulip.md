@@ -14,7 +14,7 @@ page_sections:
     enabled: true
     url: "/download"
     button_text: Download
-    media:
+  media:
     image: "/uploads/res/tulip.png"
     alt_text: ''
 
