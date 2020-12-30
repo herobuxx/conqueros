@@ -10,7 +10,7 @@ page_sections:
   slug: tulip
   content: "<strong>Release Status<br></strong>Official Beta<br><strong><br>Suppported
     Version<br></strong>4.X Raven CAF<br><strong><br>Maintainer<br></strong>Alif Fahur"
-    cta:
+  cta:
     enabled: true
     url: "/download"
     button_text: Download
